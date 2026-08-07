@@ -3,6 +3,10 @@ __pycache__/
 .venv/
 venv/
 .pytest_cache/
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
 # keep the run gif + a placeholder, ignore per-run artifacts
 artifacts/*.png
 artifacts/report.html
