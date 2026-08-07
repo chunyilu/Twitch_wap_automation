@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+# keep the run gif + a placeholder, ignore per-run artifacts
+artifacts/*.png
+artifacts/report.html
+!artifacts/.gitkeep
+!artifacts/run.gif
